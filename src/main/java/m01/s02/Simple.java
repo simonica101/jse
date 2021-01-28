@@ -8,7 +8,7 @@ import java.lang.Math; // not required
 /**
  * A "hello world" class
  * 
- * @author Emanuele Galli
+ * @author Emanuele Galli  //comment minor change
  */
 public class Simple {
     public static void main(String[] args) {
